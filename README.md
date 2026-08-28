@@ -48,9 +48,6 @@ manifest.json
 styles.css
 ```
 
-`data.json` is included as part of the archived distribution and may be
-copied as well.
-
 Then enable **Privacy Glasses** under **Settings → Community plugins**.
 
 ## Compatibility
